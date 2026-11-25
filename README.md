@@ -1,0 +1,2 @@
+# AutoClicker
+My first autoclicker
